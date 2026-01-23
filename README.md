@@ -4,7 +4,7 @@ A simple AI-powered (rule-based) SQL agent that converts natural language questi
 
 # Project Overview
 
-1. AskSQL allows users to:
+1. This Agent allows users to:
 
 2. Ask questions about data in plain English
 
