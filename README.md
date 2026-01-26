@@ -16,7 +16,7 @@ A simple AI-powered (rule-based) SQL agent that converts natural language questi
 
 The project is designed with a modular architecture, making it easy to replace the rule-based SQL generator with an LLM in the future.
 
-STEPS TO RUN In VSCODE :
+STEPS TO RUN on VSCODE :
 
 
 # Create virtual environment:
@@ -71,10 +71,6 @@ show all products :
 
 
 <img width="1920" height="924" alt="image" src="https://github.com/user-attachments/assets/025e02b6-0bc4-4703-99c3-3b7196890cd3" />
-
-
-
-
 
 
 
